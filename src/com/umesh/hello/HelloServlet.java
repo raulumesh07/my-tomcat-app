@@ -14,7 +14,8 @@ public class HelloServlet extends HttpServlet {
 	out.println("<p>This is my first dynamic servlet deployment!</p>");
         out.println("<p>This is my Second Change!</p>");
         out.println("<p>This is my Third Change before Github!</p>");
-        out.println("<p>Reay for the Change!</p>");
+        out.println("<p>Ready for the Change!</p>");
+        out.println("<p>Now tracked via Git and pushed to GitHub!</p>");
     }
 }
 
