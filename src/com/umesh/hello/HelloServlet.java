@@ -16,6 +16,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<p>This is my Third Change before Github!</p>");
         out.println("<p>Ready for the Change!</p>");
         out.println("<p>Now tracked via Git and pushed to GitHub!</p>");
+        out.println("<p>Fourth change-Git makes rollbacks easy!</p>");
     }
 }
 
