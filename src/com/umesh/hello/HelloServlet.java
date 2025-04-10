@@ -18,6 +18,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<p>Now tracked via Git and pushed to GitHub!</p>");
         out.println("<p>Deployed via GoCD at 10:25:00 PM!</p>");
         out.println("<p>Second Deployment via GoCD at 11:49:00 PM!</p>");
+        out.println("<p>Third Automated Deployment via GoCD at 00:30:00 AM by AUR!</p>");
     }
 }
 
