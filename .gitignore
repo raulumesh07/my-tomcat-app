@@ -1,0 +1,3 @@
+build/
+mywebapp.war
+*.class
