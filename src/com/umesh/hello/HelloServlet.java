@@ -22,6 +22,7 @@ public class HelloServlet extends HttpServlet {
         out.println("<p>Fourth CD/CD Automated Deployment via GoCD at 06:40:00 AM!</p>");
         out.println("<p>Fifth CD/CD Automated BASIC DEVELOPMENT via GoCD at 08:00:00 PM!</p>");
         out.println("<p>Sixth CD/CD Automated SIT Deployment via GoCD at 08:30:00 PM!</p>");
+        out.println("<p>Change 1  CI/CD Automated Deployment!</p>");
     }
 }
 
